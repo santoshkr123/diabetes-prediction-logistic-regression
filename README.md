@@ -49,6 +49,14 @@ The model expects the following features:
 - `DiabetesPedigreeFunction`
 - `Age`
 
+𝗜𝗻𝘀𝘁𝗮𝗹𝗹 𝗗𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝗰𝗶𝗲𝘀
+pip install -r requirements.txt
+
+𝗥𝘂𝗻 𝘁𝗵𝗲 𝗙𝗹𝗮𝘀𝗸 𝗔𝗽𝗽
+ python app.py
+
+  
+
 These values are scaled using a fitted `StandardScaler` before prediction.
 
 ---
