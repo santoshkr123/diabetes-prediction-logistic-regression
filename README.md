@@ -49,11 +49,9 @@ The model expects the following features:
 - `DiabetesPedigreeFunction`
 - `Age`
 
-𝗜𝗻𝘀𝘁𝗮𝗹𝗹 𝗗𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝗰𝗶𝗲𝘀
-pip install -r requirements.txt
+## 📈 Conclusion
 
-𝗥𝘂𝗻 𝘁𝗵𝗲 𝗙𝗹𝗮𝘀𝗸 𝗔𝗽𝗽
- python app.py
+The Logistic Regression model achieved an accuracy of **73%** on the test set for predicting diabetes. This indicates that the model can correctly classify diabetic vs. non-diabetic 
 
   
 
