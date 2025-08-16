@@ -19,7 +19,7 @@ Early detection of diabetes can help in managing the disease and reducing compli
 - ✅ User input via web form (HTML + Flask)
 - ✅ Clean UI with prediction display (`Diabetic` / `Non-Diabetic`)
 - ✅ Modular code with `app.py`, templates, and models separated
-- ✅ Ready for deployment (Heroku, Render, Railway, etc.)
+  
 
 ---
 
